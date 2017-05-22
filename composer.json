@@ -1,0 +1,19 @@
+{
+  "name": "soez/foxphp",
+  "description": "frist",
+  "kewords": [
+    "soez",
+    "foxphp"
+  ],
+  "authors": [
+    {
+      "name": "soez"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "files": [
+      "index.php"
+    ]
+  }
+}
